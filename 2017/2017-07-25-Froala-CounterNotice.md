@@ -17,20 +17,20 @@ The owner of froala at least speaks about the old version of the program, which 
 At the same time it is said that he had a design and code, but that's not true. I can also open the source code for this repository. In this design is almost in all WYSIWYG editors.
 
 Screenshots:  
-Froala http://clip2net.com/s/3MoyrVG  
-TinyMce http://clip2net.com/s/3MoysLl  
-Jodit http://clip2net.com/s/3MoyuAh  
+Froala http://c2n.me/3MuvNUU.jpg  
+TinyMce http://c2n.me/3MuvQc5.png  
+Jodit http://c2n.me/3MuwpFP.jpg
 
-Froala http://clip2net.com/s/3Moyvqq   
-jodit http://clip2net.com/s/3MoyxTP  
+Froala http://c2n.me/3MuvVPe.jpg   
+jodit http://c2n.me/3MuvVCc.jpg  
 
-Froala http://clip2net.com/s/3MoyCuO  
-TinyMCE http://clip2net.com/s/3MoyAta  
-Jodit http://clip2net.com/s/3MoyAXB  
+Froala http://c2n.me/3MuvUk3.png 
+TinyMCE http://c2n.me/3MuvRVB.png  
+Jodit http://c2n.me/3MuvUFV.png  
 
-jodit http://clip2net.com/s/3MoyDsZ  
-CkEditor http://clip2net.com/s/3MoyHzl  
-Froala http://clip2net.com/s/3MoyJ6Q  
+jodit http://c2n.me/3MuvUXS.png 
+CkEditor http://c2n.me/3MuvVaD.png 
+Froala http://c2n.me/3MuvVpw.png  
 
 I swear, under penalty of perjury, that I have a good-faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled.  
 
